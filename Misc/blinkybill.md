@@ -18,7 +18,7 @@ NOTE: Flag is case-insensitive and requires placing inside DUCTF{} wrapper!
 
 It isn't to hard to solve, just downloaded the .wav file, slowed down the audio's speed and wrote the code in a morse decoder. After getting the message, I wrapped it in the competition's flag format: DUCTF{}
 
-Morse Code from audio: -... .-. .. -. --. -... .- -.-. -.- - .... . - .-. . . ...
+**Message**: **-... .-. .. -. --. -... .- -.-. -.- - .... . - .-. . . ...**
 
 ## Flag
 
