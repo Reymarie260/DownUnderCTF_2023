@@ -8,7 +8,7 @@ NOTE: Flag is case-insensitive and requires placing inside DUCTF{} wrapper!
 
 ## Information
 
-**Point Value**: 153 points
+**Point Value**: 100 points
 
 **Category**: Miscelaneous
 
