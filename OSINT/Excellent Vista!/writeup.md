@@ -13,7 +13,7 @@ NOTE: Flag is case-insensitive and requires placing inside DUCTF{} wrapper! e.g 
 **Difficulty**: Beginner
 
 ## Solution
-Downloaded image and open it. Inside the gallery I searched in 'File Info' and there it had the coordenates of the location: -29.50954, 153.35957. Searched the location on Google maps, where it said the place was called the Durrangan Lookout, Australia. Placed the lookout in competition flag's format, and voilà! Flag obtained.
+Downloaded image and opened it. In the gallery I searched for 'File Info' option and there it had coordenates on Location: -29.50954, 153.35957. Searched the location on Google maps, where it said the place was called the Durrangan Lookout, Australia. Placed the lookout in competition flag's format, and voilà! Flag obtained.
 
 ## Flag
 DUCTF{Durrangan_Lookout}
