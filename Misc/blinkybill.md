@@ -16,9 +16,9 @@ NOTE: Flag is case-insensitive and requires placing inside DUCTF{} wrapper!
 
 ## Solution
 
-It isn't to hard to solve, just downloaded the .wav file, slowed down the audio's speed and wrote the code in a morse decoder. After getting the message, I wrapped it in the competition's flag format: DUCTF{}
+It wasn't to hard to solve, I downloaded the audio provided by the challenge 'blinkybill.wav' file. Proceeded to open it in the VLC Media Player and hear its content, where in the background could be heard a Morse Code message, so I slowed down the playback's speed to write it up. 
 
-**Message**: **-... .-. .. -. --. -... .- -.-. -.- - .... . - .-. . . ...**
+We get the message **-... .-. .. -. --. -... .- -.-. -.- - .... . - .-. . . ...**, which when decoded we obtain 'BRINGBACKTHETREES'.
 
 ## Flag
 
