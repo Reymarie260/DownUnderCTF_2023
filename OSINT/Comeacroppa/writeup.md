@@ -13,7 +13,7 @@ Flag format DUCTF{suburb}
 **Difficulty**: Easy
 
 ## Solution
-
+Searched image through Google Lens, where we found out it was a Scotch Pie House built in 1866 in the main street Maldon, Victoria in Australia.
 
 ## Flag
 DUCTF{maldon}
